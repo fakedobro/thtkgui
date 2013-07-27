@@ -4,7 +4,7 @@
 Разработка: доброанон с dobrochan.com/to
 Почта: fake.dobrochan@gmail.com
 Автор идеи и главный тестер: sybgamer
-Репозиторий на Гитхабе: github.com/fakedobro/thtk_gui
+Репозиторий на Гитхабе: github.com/fakedobro/thtkgui
 
 A graphical interface for Touhou Toolkit made by xarnonymous.
 Allows to skip routine command line operations and move on straight to modding.
@@ -12,4 +12,4 @@ For more information refer to help files in Help folder.
 Developer: dobroanon from dobrochan.com/to
 Mail: fake.dobrochan@gmail.com
 Author of idea and main tester: sybgamer
-Repository on GitHub: github.com/fakedobro/thtk_gui
+Repository on GitHub: github.com/fakedobro/thtkgui
